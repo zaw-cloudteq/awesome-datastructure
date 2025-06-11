@@ -22,29 +22,29 @@ O(1)
 O(logN)
 - https://www.youtube.com/watch?v=wjDY5RbILno
 
-Generic type parameters
+### Generic type parameters
 <E extends Something>
 https://youtu.be/K1iu1kXkVoA?t=599
 
 Generic type parameters 
-Bounded Generic
+### Bounded Generic
 https://youtu.be/K1iu1kXkVoA?t=683
 
-Bounded type parameters
+### Bounded type parameters
 <E extends Animal & Serializble>
 <T extends Number & Comparable<T>>
 Multi Bound Generic(with interface '&')
 https://youtu.be/K1iu1kXkVoA?t=700
 
-Generic type parameters 
+### Generic type parameters 
 <K,V>
 https://youtu.be/K1iu1kXkVoA?t=828
 
-Generic method declarations
+### Generic method declarations
 public <T> T doSomething(T input)
 https://youtu.be/K1iu1kXkVoA?t=871
 
-Wildcard types - <?>, <? extends T>, <? super T>
+### Wildcard types - <?>, <? extends T>, <? super T>
 https://youtu.be/K1iu1kXkVoA?t=981
 
 
