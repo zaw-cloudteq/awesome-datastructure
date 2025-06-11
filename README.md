@@ -43,7 +43,7 @@
 - https://www.youtube.com/watch?v=wjDY5RbILno
 
 ### Generic type parameters
-<E extends Something>
+`<E extends Something>`
   
 https://youtu.be/K1iu1kXkVoA?t=599
 
@@ -55,9 +55,9 @@ https://youtu.be/K1iu1kXkVoA?t=683
 
 ### Bounded type parameters
 
-<E extends Animal & Serializble>
+`<E extends Animal & Serializble>`
 
-<T extends Number & Comparable<T>>
+`<T extends Number & Comparable<T>>`
 
 Multi Bound Generic(with interface '&')
 
@@ -66,19 +66,21 @@ https://youtu.be/K1iu1kXkVoA?t=700
 
 ### Generic type parameters 
 
-<K,V>
+`<K,V>`
 
 https://youtu.be/K1iu1kXkVoA?t=828
 
 
 ### Generic method declarations
 
-public <T> T doSomething(T input)
+`public <T> T doSomething(T input)`
 
 https://youtu.be/K1iu1kXkVoA?t=871
 
 
-### Wildcard types - <?>, <? extends T>, <? super T>
+### Wildcard types
+
+`<?>`, `<? extends T>`, `<? super T>`
 
 https://youtu.be/K1iu1kXkVoA?t=981
 
